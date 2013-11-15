@@ -1,5 +1,3 @@
-#!/bin/sh
-
 git clone https://github.com/danangan/progin.git
 git clone https://github.com/pradita72/II3160--Pemrograman-Integratif-.git
 git clone https://oliviatan@bitbucket.org/oliviatan/web-service.git
@@ -24,4 +22,4 @@ git clone https://github.com/abrahamwk/II3160-Tugas1-Tugas2.git
 git clone https://github.com//mike2kevin/nyoba.git
 git clone https://raosan@bitbucket.org/raosan/progin.git
 git clone https://christianhendy@bitbucket.org/christianhendy/tugas-2-pemrograman-integratif.git
-git clone https://gilangr@bitbucket.org/gilangr/pemrograman_integratif.git
+git clone https://github.com/khairaniummah/II3160-Tugas2-18211055-18211026.git

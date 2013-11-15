@@ -1,0 +1,13 @@
+Jadi dua script ini buat dapetin semua file tugas progin.
+
+Di linux :
+1. chmod +x download-progin-linux.sh
+2. ketik:
+
+     ./download-progin-linux.sh
+
+
+Di windows :
+1. Buka command line
+2. Jalanin :
+     download-progin-windows.bat
