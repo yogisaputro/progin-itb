@@ -9,7 +9,6 @@ git clone https://github.com/WidyaSTI/Web-Service.git
 git clone https://github.com/khairaniummah/Workspace.git
 git clone https://github.com/cahgantcore/Progint.git
 git clone https://github.com/dannypranoto93/ConvertXML.git
-git clone https://github.com/andyprimawan/progin2.git
 git clone https://github.com/stefiotampan/testPHP2.git
 git clone https://gilangr@bitbucket.org/gilangr/pemrograman_integratif.git
 git clone https://github.com/muh-fajrin/II3190-Pemrograman-Integratif.git
@@ -24,3 +23,4 @@ git clone https://raosan@bitbucket.org/raosan/progin.git
 git clone https://christianhendy@bitbucket.org/christianhendy/tugas-2-pemrograman-integratif.git
 git clone https://github.com/khairaniummah/II3160-Tugas2-18211055-18211026.git
 git clone https://github.com/khairaniummah/BernadetteVina.git
+git clone https://github.com/andyprimawan/habib-andy.git
