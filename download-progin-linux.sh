@@ -6,7 +6,7 @@ git clone https://oliviatan@bitbucket.org/oliviatan/web-service.git
 git clone https://github.com/prama13/18211037.git
 git clone https://github.com/khairaniummah/BintangAdinandra.git
 git clone https://github.com/adhelaip/IPT-Assignments.git
-git clone https://github.com/ningenis/Pemrograman-Intergratif.git
+git clone https://github.com/ningenis/II3160-Progin-18211002-18211033.git
 git clone https://github.com/WidyaSTI/Web-Service.git
 git clone https://github.com/khairaniummah/Workspace.git
 git clone https://github.com/cahgantcore/Progint.git
