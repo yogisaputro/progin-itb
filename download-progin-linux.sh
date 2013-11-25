@@ -8,7 +8,6 @@ git clone https://github.com/khairaniummah/BintangAdinandra.git
 git clone https://github.com/adhelaip/IPT-Assignments.git
 git clone https://github.com/ningenis/II3160-Progin-18211002-18211033.git
 git clone https://github.com/WidyaSTI/Web-Service.git
-git clone https://github.com/khairaniummah/Workspace.git
 git clone https://github.com/cahgantcore/Progint.git
 git clone https://github.com/dannypranoto93/ConvertXML.git
 git clone https://github.com/stefiotampan/testPHP2.git
