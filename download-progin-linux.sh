@@ -23,7 +23,7 @@ git clone https://github.com//mike2kevin/nyoba.git
 git clone https://raosan@bitbucket.org/raosan/progin-raosanfady.git
 git clone https://christianhendy@bitbucket.org/christianhendy/tugas-2-pemrograman-integratif.git
 git clone https://github.com/khairaniummah/II3160-Tugas2-18211055-18211026.git
-git clone https://github.com/khairaniummah/BernadetteVina.git
+git clone https://github.com/bernadettevina/BernadetteVina.git
 git clone https://github.com/andyprimawan/habib-andy.git
 git clone https://github.com/khairaniummah/II3160-18211003-18211050.git
 git clone https://github.com/dhendiii/ProgTif3.git
