@@ -1,6 +1,6 @@
 #!/bin/sh
 
-git clone https://github.com/danangan/progin.git
+git clone https://github.com/yogisaputro/Progint-yogidanang.git
 git clone https://github.com/pradita72/II3160--Pemrograman-Integratif-.git
 git clone https://oliviatan@bitbucket.org/oliviatan/18211014-dan-18211029.git
 git clone https://github.com/prama13/18211037.git
